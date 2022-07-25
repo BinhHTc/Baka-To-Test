@@ -1,9 +1,9 @@
 pipeline{
     agent any
     stages{
-        stage('Binh Cho Dien'){
+        stage('Yasuragi Kai'){
             steps{
-                git 'https://github.com/BinhHTc/BinhHTc.git'
+                git 'https://github.com/BinhHTc/Baka-To-Test.git'
             }
         }
     }
