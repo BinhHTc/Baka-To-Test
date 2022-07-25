@@ -1,7 +1,7 @@
 pipeline{
     agent any
     stages{
-        stage('Yasuragi Kai'){
+        stage('Baka to test'){
             steps{
                 git 'https://github.com/BinhHTc/Baka-To-Test.git'
             }
